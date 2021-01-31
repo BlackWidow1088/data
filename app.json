@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "dicegame-starter",
+    "slug": "snack-9e04d2b3-4899-4754-ba4b-a79bd70f36c6",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "requireFullScreen": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
